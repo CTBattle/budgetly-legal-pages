@@ -32,4 +32,7 @@ To the maximum extent permitted by law, Budgetly shall not be liable for indirec
 These Terms are governed by the laws of the United States and the applicable laws of your state of residence, without regard to conflict of law principles.
 
 ## Contact
-tucker.battle@gmail.com
+For questions regarding these Terms, contact:
+
+**tucker.battle@gmail.com**
+
